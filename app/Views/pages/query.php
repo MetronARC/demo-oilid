@@ -237,19 +237,19 @@ const itemsData = [
         image: "https://dblqzuaaavvrvueuxaua.supabase.co/storage/v1/object/sign/temporary-image/LNGPipe.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lODhjZDZkMS1jZDgxLTRlOGUtYjA2YS05OGVjZjI3NmUwMzQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZW1wb3JhcnktaW1hZ2UvTE5HUGlwZS5wbmciLCJpYXQiOjE3NDkyOTQ3ODksImV4cCI6NTYyODIyMjc4OX0.d9CeMOv4C1h3Y290do1IfUD9U8GOPBoYTLIai-IndWs",
         inspectionHistory: [
             {
-                date: "2024-02-15 14:30:00",
+                date: "2025-06-07 14:30:00",
                 inspector: "John Smith",
                 notes: "Regular maintenance check completed. All parameters within normal range.",
                 status: "Accept"
             },
             {
-                date: "2024-02-01 09:15:00",
+                date: "2025-06-04 09:15:00",
                 inspector: "Sarah Johnson",
                 notes: "Minor wear detected on section B. Requires monitoring.",
                 status: "Repair"
             },
             {
-                date: "2024-01-15 11:20:00",
+                date: "2025-06-01 11:20:00",
                 inspector: "Mike Brown",
                 notes: "Pressure test passed. No leaks detected.",
                 status: "Accept"
@@ -263,19 +263,19 @@ const itemsData = [
         image: "https://dblqzuaaavvrvueuxaua.supabase.co/storage/v1/object/sign/temporary-image/$_57.JPG?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lODhjZDZkMS1jZDgxLTRlOGUtYjA2YS05OGVjZjI3NmUwMzQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZW1wb3JhcnktaW1hZ2UvJF81Ny5KUEciLCJpYXQiOjE3NDkyOTQ3NzUsImV4cCI6NTYyODIyMjc3NX0.QNjkBbX0p7jhgXxtGWv4dF2sP-JhNOXWP9OYBYkfkrA",
         inspectionHistory: [
             {
-                date: "2024-02-10 09:15:00",
+                date: "2025-06-04 09:15:00",
                 inspector: "Sarah Johnson",
                 notes: "Chain links showing minimal wear.",
                 status: "Accept"
             },
             {
-                date: "2024-01-25 13:45:00",
+                date: "2025-06-01 13:45:00",
                 inspector: "John Smith",
                 notes: "Critical stress points identified. Immediate replacement needed.",
                 status: "Failed"
             },
             {
-                date: "2024-01-10 10:30:00",
+                date: "2025-06-01 10:30:00",
                 inspector: "Mike Brown",
                 notes: "Load test completed successfully.",
                 status: "Accept"

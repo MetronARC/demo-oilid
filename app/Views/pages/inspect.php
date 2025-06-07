@@ -394,7 +394,7 @@ const itemsData = [
         type: "LNG Pipe",
         image: "https://dblqzuaaavvrvueuxaua.supabase.co/storage/v1/object/sign/temporary-image/LNGPipe.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lODhjZDZkMS1jZDgxLTRlOGUtYjA2YS05OGVjZjI3NmUwMzQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZW1wb3JhcnktaW1hZ2UvTE5HUGlwZS5wbmciLCJpYXQiOjE3NDkyOTQ3ODksImV4cCI6NTYyODIyMjc4OX0.d9CeMOv4C1h3Y290do1IfUD9U8GOPBoYTLIai-IndWs",
         lastInspection: {
-            date: "2024-02-15 14:30:00",
+            date: "2025-06-07 14:30:00",
             notes: "Regular maintenance check completed. All parameters within normal range.",
             inspector: "John Smith",
             status: "Accept"
@@ -406,7 +406,7 @@ const itemsData = [
         type: "Heavy Lifting Chains",
         image: "https://dblqzuaaavvrvueuxaua.supabase.co/storage/v1/object/sign/temporary-image/$_57.JPG?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lODhjZDZkMS1jZDgxLTRlOGUtYjA2YS05OGVjZjI3NmUwMzQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZW1wb3JhcnktaW1hZ2UvJF81Ny5KUEciLCJpYXQiOjE3NDkyOTQ3NzUsImV4cCI6NTYyODIyMjc3NX0.QNjkBbX0p7jhgXxtGWv4dF2sP-JhNOXWP9OYBYkfkrA",
         lastInspection: {
-            date: "2024-02-10 09:15:00",
+            date: "2025-06-04 09:15:00",
             notes: "Chain links showing minimal wear.",
             inspector: "Sarah Johnson",
             status: "Repair"
